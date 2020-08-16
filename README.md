@@ -1,2 +1,4 @@
-# about
-All about this GitHub team.
+# About
+
+This team focus on:
+Testing projects from forked repository.
